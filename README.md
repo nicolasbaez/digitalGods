@@ -1,7 +1,7 @@
 # DIGITAL GODS: SUNSET
 Creando un atardecer
 
-![digitalGods](https://github.com/nicolasbaez/digitalGods/blob/master/portada.png)
+![digitalGods](https://github.com/nicolasbaez/digitalGods001/blob/master/portada.png)
 
 1. gameDev.htm
 ```html
