@@ -20,7 +20,7 @@ Creando un atardecer
 </html>
 ```
 2. digitalGods.js
-```html
+```javascript
 function setup() {
  createCanvas(window.innerWidth,window.innerHeight);
  background(0);
